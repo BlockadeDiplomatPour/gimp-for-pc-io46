@@ -1,4 +1,4 @@
-# 
+# Enhance GIMP for PC | GIMP for Windows with instant GIMP for PC | GIMP for Windows Script | automated-actions + brush-engine, the #1 script. Includes automated-actions and
 
 
 
